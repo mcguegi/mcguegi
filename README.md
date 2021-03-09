@@ -1,4 +1,4 @@
-![Header](https://flic.kr/p/2kJdY7W "HeaderCamilaGuerrero")
+![Header](https://github.com/mcguegi/mcguegi/blob/main/header.png "HeaderCamilaGuerrero")
 
 # Hello world! I'm Camila 👋
 Backend developer, Systems Engineer and education enthusiast. I also do lettering and art journaling. <br>
