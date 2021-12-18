@@ -1,12 +1,11 @@
 ![Header](https://github.com/mcguegi/mcguegi/blob/main/header.png "HeaderCamilaGuerrero")
 
 # Hello world! I'm Camila 👋
-Backend developer, Systems Engineer and education enthusiast. I also do lettering and art journaling. <br>
+Backend developer and education enthusiast. I also do lettering and art journaling. <br>
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mcguegi&repo=mcguegi&countColorcountColor&countColor=%237B1E7A)
 ## About me  
-- 🔭 I’m currently working at MercadoLibre
-- 🤓 Learning Python and Golang
-- 📍 Bogotá, Colombia
+- 🔭 Software Engineer
+- 📍 Madrid, Spain
 - 👩‍💻 She/Her</div>
 
 ## My Skills
