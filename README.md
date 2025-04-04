@@ -1,5 +1,3 @@
-![Header](https://github.com/mcguegi/mcguegi/blob/main/header.png "HeaderCamilaGuerrero")
-
 # Hello world! I'm Camila 👋
 I'm a Senior Software Engineer based in the EU. I have experience of 6 years in the Software Engineering area and my technical skills are mainly on Backend with Java and Python. <br>
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mcguegi&repo=mcguegi&countColorcountColor&countColor=%237B1E7A)
